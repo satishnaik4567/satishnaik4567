@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Satish Naik
+###
+![](https://komarev.com/ghpvc/?satishnaik4567=your-github-satishnaik4567&style=flat-square)
 <!--
 **satishnaik4567/satishnaik4567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
